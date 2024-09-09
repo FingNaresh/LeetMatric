@@ -62,7 +62,8 @@ You can view the live demo of **LeetMatrix** here:
 
 Here’s a preview of the **LeetMatrix** application:
 
-![LeetMatrix Screenshot](https://github.com/user-attachments/assets/0c19c971-df26-473e-b642-26fedfd9f80d)
+![LeetMatrix Screenshot](https://github.com/user-attachments/assets/40e66b30-035a-40fd-ae90-58ec235c7cf5)
+
 
 ---
 
